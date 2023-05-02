@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boyanchakandrakov
 - 👀 I’m interested in Front and Back End Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on Angular
 - 📫 How to reach me: email: boyan.chakandrakov@gmail.com
 
